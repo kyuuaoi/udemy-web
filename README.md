@@ -1,4 +1,4 @@
-## Hi, I am Gabriel Luizon
+# Hi, I am Gabriel Luizon
 
-# I am studying front-end from a Udemy course
-# Here I will upload all of my progress
+### I am studying front-end from a Udemy course
+Here I will upload all of my progress
