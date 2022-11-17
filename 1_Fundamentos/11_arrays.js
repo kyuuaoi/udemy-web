@@ -13,7 +13,7 @@ console.log(valores.length);
 valores.push({ id: 3 }, false, null, "Teste");
 console.log(valores);
 
-// Você pode misturar tipos dentro do array, mas o ideal é eu cada array tenha tipos separados
+// Você pode misturar tipos dentro do array, mas o ideal é que cada array tenha tipos separados
 
 console.log(valores.pop()); // Desta forma você retira o último elemento do array
 delete valores[0]; // Desta forma você deleta o elemento estipulado do array
